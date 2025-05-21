@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP-maths-o3", "MCP-maths-o3.csproj", "{CFAB4D27-D5B4-ADD6-ED97-445422AAA31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAB4D27-D5B4-ADD6-ED97-445422AAA31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAB4D27-D5B4-ADD6-ED97-445422AAA31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAB4D27-D5B4-ADD6-ED97-445422AAA31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAB4D27-D5B4-ADD6-ED97-445422AAA31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724027F5-E195-4368-819B-1172B643D5FC}
+	EndGlobalSection
+EndGlobal

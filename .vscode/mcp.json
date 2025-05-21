@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "mathMCP": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "${workspaceFolder}/MCP-maths-o3.csproj"
+      ]
+    }
+  }
+}
